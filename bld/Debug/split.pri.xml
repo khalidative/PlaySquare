@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="b196bced-929b-4067-a4eb-fbaf4ad13ff5" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+			<Theme>LIGHT, DARK</Theme>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="default.html" uri="ms-resource://b196bced-929b-4067-a4eb-fbaf4ad13ff5/Files/default.html">
+				<Candidate type="Path">
+					<Value>default.html</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="jumpSquare.html" uri="ms-resource://b196bced-929b-4067-a4eb-fbaf4ad13ff5/Files/jumpSquare.html">
+				<Candidate type="Path">
+					<Value>jumpSquare.html</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PlaySquare.html" uri="ms-resource://b196bced-929b-4067-a4eb-fbaf4ad13ff5/Files/PlaySquare.html">
+				<Candidate type="Path">
+					<Value>PlaySquare.html</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="css">
+				<NamedResource name="default.css" uri="ms-resource://b196bced-929b-4067-a4eb-fbaf4ad13ff5/Files/css/default.css">
+					<Candidate type="Path">
+						<Value>css\default.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ui-themed.css" uri="ms-resource://b196bced-929b-4067-a4eb-fbaf4ad13ff5/Files/css/ui-themed.css">
+					<Candidate qualifiers="Theme-LIGHT" isDefault="true" type="Path">
+						<Value>css\ui-themed.theme-light.css</Value>
+					</Candidate>
+					<Candidate qualifiers="Theme-DARK" isDefault="true" type="Path">
+						<Value>css\ui-themed.theme-dark.css</Value>
+					</Candidate>
+					<Candidate type="Path">
+						<Value>css\ui-themed.css</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="back.jpg" uri="ms-resource://b196bced-929b-4067-a4eb-fbaf4ad13ff5/Files/images/back.jpg">
+					<Candidate type="Path">
+						<Value>images\back.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="edit_converted1.png" uri="ms-resource://b196bced-929b-4067-a4eb-fbaf4ad13ff5/Files/images/edit_converted1.png">
+					<Candidate type="Path">
+						<Value>images\edit_converted1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://b196bced-929b-4067-a4eb-fbaf4ad13ff5/Files/images/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://b196bced-929b-4067-a4eb-fbaf4ad13ff5/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://b196bced-929b-4067-a4eb-fbaf4ad13ff5/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://b196bced-929b-4067-a4eb-fbaf4ad13ff5/Files/images/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://b196bced-929b-4067-a4eb-fbaf4ad13ff5/Files/images/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://b196bced-929b-4067-a4eb-fbaf4ad13ff5/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="js">
+				<NamedResource name="default.js" uri="ms-resource://b196bced-929b-4067-a4eb-fbaf4ad13ff5/Files/js/default.js">
+					<Candidate type="Path">
+						<Value>js\default.js</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

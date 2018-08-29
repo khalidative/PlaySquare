@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html> 
+<head>
+    
+    <title></title>
+
+</head>
+<body style="background-image: url('images/back.jpg')">
+        <p id="timerout" style="font-size:32px; color:black;text-align:center" >30</p>
+        <canvas id="cvsbody" width="384" height="384" onmouseup="canClick(event)" style="border:1px solid #000000;background-color:cyan"></canvas>
+    <div style="text-align:center">
+        <p></p>
+        <button id="btnStart" onclick="timerStart()" style="background-color:white">Play</button>
+        <br />
+    </div>
+    <p id="score" style="font-size:20px; color:black;text-align:center"></p>
+    <p id="highscore" style="font-size:20px; color:black;text-align:right"></p>
+
+    <script type="text/javascript">   
+    var score = 0;
+    var count = 0;
+    var t;             
+    var canvasBody = document.getElementById("cvsbody");
+    var ctxBody = canvasBody.getContext('2d');
+    var currentBox = Math.floor((Math.random() * 9));
+    var highscore = 0;
+
+    function drawBox(i) {
+        var row = Math.floor(i / 3);
+        var col = i % 3;
+        ctxBody.fillStyle = "#FF0000";
+        ctxBody.fillRect(row * 128 , col * 128, 128,  128);
+    }
+
+    function clearBox(i) {
+        var row = Math.floor(i / 3);
+        var col = i % 3;
+        ctxBody.fillStyle = "cyan";
+        ctxBody.fillRect(row * 128, col * 128, 128, 128);
+    }
+
+    function checkBox(x, y) {
+        var row = Math.floor(currentBox / 3);
+        var col = currentBox % 3;
+        if (x >= (row * 128) && x <= (row * 128 + 128)
+                && y >= (col * 128) && y <= (col * 128 + 128)) return true;
+        else return false;
+    }
+
+
+    function canClick(event) {
+
+        var stage = canvasBody.getBoundingClientRect();
+        mouseX = Math.floor(event.clientX - stage.left);
+        mouseY = Math.floor(event.clientY - stage.top);
+        if (checkBox(mouseX, mouseY)) {
+            score++;
+        }
+    }
+
+    function timerStart() {
+        count++;
+        if (count == 50) {
+            if (score > highscore) {
+                highscore = score;
+                document.getElementById("highscore").innerHTML = "High score   :   " + highscore;
+            }
+            count = 0;
+            score = 0;
+        }
+        clearBox(currentBox);
+        currentBox = Math.floor((Math.random() * 9));
+        drawBox(currentBox);
+        document.getElementById("timerout").innerHTML = count;        
+        document.getElementById("score").innerHTML = "You got:" + score + ' out of ' + count + ' ----' + Math.floor(score/count * 100) + ' %';
+        t = setTimeout("timerStart()", 800);
+    }
+
+    </script>
+
+</body>
+</html> 

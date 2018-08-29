@@ -1,0 +1,22 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-240"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Debug\split.pri"			"resources.pri"
+"F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Debug\PackageLayout\PlaySquare.html"			"PlaySquare.html"
+"F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Debug\PackageLayout\jumpSquare.html"			"jumpSquare.html"
+"F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Debug\PackageLayout\js\default.js"			"js\default.js"
+"F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Debug\PackageLayout\images\Wide310x150Logo.scale-240.png"			"images\Wide310x150Logo.scale-240.png"
+"F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Debug\PackageLayout\images\StoreLogo.scale-240.png"			"images\StoreLogo.scale-240.png"
+"F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Debug\PackageLayout\images\Square71x71Logo.scale-240.png"			"images\Square71x71Logo.scale-240.png"
+"F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Debug\PackageLayout\images\Square44x44Logo.scale-240.png"			"images\Square44x44Logo.scale-240.png"
+"F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Debug\PackageLayout\images\Square150x150Logo.scale-240.png"			"images\Square150x150Logo.scale-240.png"
+"F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Debug\PackageLayout\images\SplashScreen.scale-240.png"			"images\SplashScreen.scale-240.png"
+"F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Debug\PackageLayout\images\edit_converted1.png"			"images\edit_converted1.png"
+"F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Debug\PackageLayout\images\back.jpg"			"images\back.jpg"
+"F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Debug\PackageLayout\default.html"			"default.html"
+"F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Debug\PackageLayout\css\ui-themed.css"			"css\ui-themed.css"
+"F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Debug\PackageLayout\css\ui-themed.theme-dark.css"			"css\ui-themed.theme-dark.css"
+"F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Debug\PackageLayout\css\ui-themed.theme-light.css"			"css\ui-themed.theme-light.css"
+"F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Debug\PackageLayout\css\default.css"			"css\default.css"

@@ -1,0 +1,15 @@
+C:\Users\SOHAIL ALI\Desktop\hackathon\hackathon\bin\Debug\ReverseMap\resources.pri
+C:\Users\SOHAIL ALI\Desktop\hackathon\hackathon\bin\Debug\AppxManifest.xml
+C:\Users\SOHAIL ALI\Desktop\hackathon\hackathon\bin\Debug\hackathon.build.appxrecipe
+C:\Users\SOHAIL ALI\Desktop\hackathon\hackathon\bld\Debug\priconfig.xml
+C:\Users\SOHAIL ALI\Desktop\hackathon\hackathon\bld\Debug\priconfig.xml.intermediate
+C:\Users\SOHAIL ALI\Desktop\hackathon\hackathon\bld\Debug\layout.resfiles
+C:\Users\SOHAIL ALI\Desktop\hackathon\hackathon\bld\Debug\layout.resfiles.intermediate
+C:\Users\SOHAIL ALI\Desktop\hackathon\hackathon\bld\Debug\resources.resfiles
+C:\Users\SOHAIL ALI\Desktop\hackathon\hackathon\bld\Debug\resources.resfiles.intermediate
+C:\Users\SOHAIL ALI\Desktop\hackathon\hackathon\bld\Debug\pri.resfiles
+C:\Users\SOHAIL ALI\Desktop\hackathon\hackathon\bld\Debug\pri.resfiles.intermediate
+C:\Users\SOHAIL ALI\Desktop\hackathon\hackathon\bld\Debug\qualifiers.txt
+C:\Users\SOHAIL ALI\Desktop\hackathon\hackathon\bld\Debug\qualifiers.txt.intermediate
+C:\Users\SOHAIL ALI\Desktop\hackathon\hackathon\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\SOHAIL ALI\Desktop\hackathon\hackathon\bld\Debug\ProjectArchitectures.txt

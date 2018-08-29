@@ -1,0 +1,15 @@
+F:\Users\Khalid\Desktop\hackathon Final\hackathon\bin\Release\ReverseMap\resources.pri
+F:\Users\Khalid\Desktop\hackathon Final\hackathon\bin\Release\AppxManifest.xml
+F:\Users\Khalid\Desktop\hackathon Final\hackathon\bin\Release\Hackathon_Ultimate.build.appxrecipe
+F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Release\priconfig.xml
+F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Release\priconfig.xml.intermediate
+F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Release\layout.resfiles
+F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Release\layout.resfiles.intermediate
+F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Release\resources.resfiles
+F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Release\resources.resfiles.intermediate
+F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Release\pri.resfiles
+F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Release\pri.resfiles.intermediate
+F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Release\qualifiers.txt
+F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Release\qualifiers.txt.intermediate
+F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Release\MultipleQualifiersPerDimensionFound.txt
+F:\Users\Khalid\Desktop\hackathon Final\hackathon\bld\Release\ProjectArchitectures.txt
